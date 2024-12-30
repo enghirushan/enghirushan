@@ -3,7 +3,6 @@
 # 💫 About Me:
 🌱 I’m currently learning React JS, Angular, Java Springboot, Oracle Db <br><br>🔭 I’m currently working on the NSBM IEEE Community<br><br>🧑‍🎓 I’m an Undergraduate at Plymouth University<br><br>🤔 My interest lies in Fullstack Development<br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enghirushan&label=Profile%20views&color=0e75b6&style=flat" alt="enghirushan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enghirushan" alt="enghirushan" /></a> </p>
 
